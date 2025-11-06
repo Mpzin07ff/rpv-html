@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tags HTML</title>
+</head>
+
+<body>
+    <h1>Este é um exemplo de título em h1</h1>
+    <h2>Este é um exemplo de título em h2</h2>
+    <h3>Este é um exemplo de título em h3</h3>
+    <h4>Este é um exemplo de título em h4</h4>
+    <h5>Este é um exemplo de título em h5</h5>
+    <h6>Este é um exemplo de título em h6</h6>
+
+    <p>Aqui está um exemplo de paragrafo usando a tag < p> e este paragrafoquebra a linha automaticamente.</p>
+    <span>Aqui é um exemplo da tag < span>, porém ela pula uma linha automaticamente. </span>
+    <!--     <br>A tag < br > representa uma quebra de linha.<br> -->
+    <br><br>
+    <a href="./index.html">Aqui eu retorno para index</a>
+</body>
+
+</html>
