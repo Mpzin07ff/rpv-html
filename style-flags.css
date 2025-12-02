@@ -1,0 +1,82 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    height: 100vh;
+}
+
+.bg-white {
+    background-color: rgb(255, 255, 255);
+}
+
+.bg-cor-red {
+    background-color: red;
+}
+
+.bg-cor-green {
+    background-color: green;
+}
+
+.bg-cor-blue {
+    background-color: blue;
+}
+
+.bg-yellow {
+    background-color: yellow;
+}
+
+.bg-black {
+    background-color: black;
+}
+
+#flags {
+    width: 100vw;
+    height: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 16px;
+}
+
+.flag {
+    width: 120px;
+    height: 120px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.circle {
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+}
+
+.bar-vertical {
+    width: 40px;
+    height: 100%;
+}
+
+.bar-horizontal {
+    width: 120px;
+    height: 40px;
+}
+
+.flag-horizontal {
+    display: flex;
+    flex-direction: column;
+}
+
+.envolve-flag{
+    display: flex;
+    flex-direction: column;
+    gap: 80px;
+    align-items: center;
+}
